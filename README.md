@@ -70,24 +70,24 @@ Reject a medicine if it appears unsafe or suspicious
 This promotes accountability and prevents counterfeit distribution.
 
 🛠️ Engineering & Design Principles Demonstrated
-✔ Clean Contract Structure
+Clean Contract Structure
 
 Clear separation of concerns with dedicated modifiers, mappings, events, and structs.
 
-✔ Secure State Transitions
+Secure State Transitions
 
 Only the current owner of a medicine can initiate a transfer.
 Prevents unauthorized modifications or misuse.
 
-✔ Efficient Data Storage
+Efficient Data Storage
 
 Uses mappings and compact structs for gas-efficient read/write operations.
 
-✔ Event-Driven Logging
+Event-Driven Logging
 
 Every transfer is logged using indexed events for efficient filtering and blockchain analytics.
 
-✔ Production-Level Validations
+Production-Level Validations
 
 Enforces unique product IDs
 
