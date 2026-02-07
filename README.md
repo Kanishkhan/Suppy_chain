@@ -3,7 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://supply-chain-blockchain.netlify.app/)
 
 **Live Website:** [https://supply-chain-blockchain.netlify.app/](https://supply-chain-blockchain.netlify.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **PharmaTrace** is a decentralized application (DApp) designed to bring transparency, security, and traceability to the pharmaceutical supply chain. Leveraging the Ethereum blockchain, it tracks the journey of medicines from manufacturing to the end patient, preventing counterfeiting and ensuring product authenticity.
 
@@ -82,10 +81,6 @@ This project is built with a focus on simplicity and direct blockchain interacti
 4.  **Patient**: Switch to the **Patient** tab to check the status or view the history of a medicine using its Serial Number.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
