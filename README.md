@@ -82,6 +82,3 @@ This project is built with a focus on simplicity and direct blockchain interacti
 
 ---
 
----
-
-*Project developed by [Kanishk Khan](https://github.com/Kanishkhan)*
